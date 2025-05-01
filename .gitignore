@@ -1,0 +1,23 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code config files
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Data files (optional: include if you're not tracking raw datasets)
+*.csv
+*.xlsx
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+venv/
