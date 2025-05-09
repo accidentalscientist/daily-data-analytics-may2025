@@ -9,10 +9,11 @@ __pycache__/
 *.py[cod]
 *.so
 
-# Data files (optional: include if you're not tracking raw datasets)
+# Data files
 *.csv
 *.xlsx
-*.pdf  # Ignoring PDF files including Opal statements
+# PDF files - explicitly ignoring all Opal statements
+*.pdf
 
 # OS junk
 .DS_Store
