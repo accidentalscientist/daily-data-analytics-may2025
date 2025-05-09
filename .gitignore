@@ -12,6 +12,7 @@ __pycache__/
 # Data files
 *.csv
 *.xlsx
+
 # PDF files - explicitly ignoring all Opal statements
 *.pdf
 
