@@ -12,6 +12,7 @@ __pycache__/
 # Data files (optional: include if you're not tracking raw datasets)
 *.csv
 *.xlsx
+*.pdf  # Ignoring PDF files including Opal statements
 
 # OS junk
 .DS_Store
