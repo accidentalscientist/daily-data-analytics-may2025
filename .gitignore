@@ -12,7 +12,9 @@ __pycache__/
 # Data files
 *.csv
 *.xlsx
-*.txt
+
+# ignore specific data files
+day29/household_power_consumption.txt
 
 # PDF files - explicitly ignoring all Opal statements
 *.pdf
