@@ -31,7 +31,7 @@ venv/
 .venv
 
 # personal analyses
-parkrun_data.ipynb
+day02/parkrun_data.ipynb
 parkrun2_data.ipynb
 parkrun_data_part2.ipynb
 parkrun_all_results.ipynb
